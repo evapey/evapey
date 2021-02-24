@@ -3,11 +3,6 @@
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/473437319387676682/813991293918773288/Avatar.gif" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evapey&layout=compact" />
-</p>
-
 ## I'm a Student and Frontend Developer
 
 - 🌱 I’m currently learning C++.
@@ -24,6 +19,11 @@
 <img align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
 
 <br />
+
+## Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evapey&layout=compact" />
+</p>
 
 ## Github Stats
 
