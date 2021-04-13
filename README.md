@@ -1,7 +1,7 @@
 ### Hello there, I'm James - aka evapey 👋
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/473437319387676682/813991293918773288/Avatar.gif" />
+  <img src="https://cdn.discordapp.com/attachments/438156046955970561/831647114211360808/rounded_corners.gif" />
 </p>
 ## I'm a Student and Frontend Developer
 
