@@ -8,8 +8,6 @@
 - 🌱 I’m currently learning C++.
 - ⚙️ 2021 Goals: Fully learn C++ and implement ImGUI properly into my projects
 
-**🎶 ~ What I'm listening to:** <br> [![Spotify](https://spotify-readme-stats.jazzzihd.vercel.app/api/spotify)](https://open.spotify.com/user/lpf1z57qek5zszpmxaj1gfl4w)
-
 ## Languages
 
 - ⚙️ Some languages that i code btw:
