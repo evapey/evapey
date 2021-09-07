@@ -2,6 +2,8 @@
 
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/438156046955970561/812043569510088774/A912Jaf_t.gif" />
+  [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/320243888503652353
+                            )](https://discord.com/users/320243888503652353)
 </p>
 ## I'm a Student and Frontend Developer
 
