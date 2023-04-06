@@ -4,7 +4,7 @@
   <img src="https://cdn.discordapp.com/attachments/438156046955970561/812043569510088774/A912Jaf_t.gif" />
 </p>
 - 🌱 I’m currently learning C++.
-- ⚙️ 2022 Goals: Fully learn C++ and implement ImGUI properly into my projects
+- ⚙️ 2023 Goals: Fully learn C++ and implement ImGUI properly into my projects
 
 ## Languages
 
