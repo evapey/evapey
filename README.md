@@ -4,6 +4,7 @@
   <img src="https://cdn.discordapp.com/attachments/438156046955970561/812043569510088774/A912Jaf_t.gif" />
 </p>
 - 🌱 I’m currently just fucking about learning everything.
+
 - ⚙️ 2024 Goals: research web backend more.
 
 ## Languages
